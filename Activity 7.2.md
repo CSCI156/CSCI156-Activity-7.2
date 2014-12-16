@@ -6,6 +6,7 @@ arguments m and n, but m should be optional with a default value of 1.
 
 3. Write a function that returns a single mxn box as a string. The argument n should be optional with default value equal 
 to m, so that the default box is a square.
+
 Note:
 ```
 def box(m, n = m):
